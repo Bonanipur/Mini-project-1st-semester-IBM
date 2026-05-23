@@ -1,3 +1,4 @@
-# Mini-project-1st-semester-IBM
+# Mini-project
+
 BONANI PURKAYASTHA
 ADTU/0/2025-29/BCSM/020
